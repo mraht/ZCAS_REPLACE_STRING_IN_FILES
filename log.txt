@@ -9691,3 +9691,146 @@ Renaming 'zial_' ('zial_')  =>  '/cas/' ('#cas#') was successful.
 Renaming 'ziot_' ('ziot_')  =>  '/cas/' ('#cas#') was successful.
 
 2023-06-22 08:01:14,993 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:30:26,664 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:31:46,193 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:31:46,196 INFO     ****************************************************************************************************
+2023-11-24 10:33:10,498 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:34:12,542 INFO     ****************************************************************************************************
+2023-11-24 10:34:28,928 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:34:52,895 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:35:02,561 INFO     ****************************************************************************************************
+2023-11-24 10:37:38,102 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:37:58,902 INFO     ****************************************************************************************************
+2023-11-24 10:38:23,716 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:38:32,514 INFO     ****************************************************************************************************
+2023-11-24 10:39:05,203 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:39:08,273 INFO     ****************************************************************************************************
+2023-11-24 10:41:11,823 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:41:16,633 INFO     ****************************************************************************************************
+2023-11-24 10:42:18,819 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:42:21,768 INFO     ****************************************************************************************************
+2023-11-24 10:46:11,280 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:46:29,815 INFO     ****************************************************************************************************
+2023-11-24 10:48:26,299 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:48:38,852 INFO     ****************************************************************************************************
+2023-11-24 10:48:53,083 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:48:54,934 INFO     ****************************************************************************************************
+2023-11-24 10:50:44,883 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:51:01,444 INFO     ****************************************************************************************************
+2023-11-24 10:53:40,232 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:53:57,731 INFO     ****************************************************************************************************
+2023-11-24 10:55:32,172 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:55:42,149 INFO     ****************************************************************************************************
+2023-11-24 10:56:43,785 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:56:45,967 INFO     ****************************************************************************************************
+2023-11-24 10:57:08,243 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 10:57:10,025 INFO     ****************************************************************************************************
+2023-11-24 11:06:16,084 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:09:32,032 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:10:13,214 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:11:16,742 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:11:24,774 INFO     ****************************************************************************************************
+2023-11-24 11:16:06,297 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:21:15,947 INFO     ****************************************************************************************************
+2023-11-24 11:21:37,644 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:21:42,349 INFO     ****************************************************************************************************
+2023-11-24 11:22:52,897 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:23:03,482 INFO     ****************************************************************************************************
+2023-11-24 11:24:19,434 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:24:23,806 INFO     ****************************************************************************************************
+2023-11-24 11:26:49,407 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:27:02,891 INFO     ****************************************************************************************************
+2023-11-24 11:30:39,464 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:31:04,859 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:33:07,351 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:34:38,376 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:35:24,187 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:35:31,735 INFO     ****************************************************************************************************
+2023-11-24 11:35:36,032 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:35:41,734 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:36:22,088 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:36:30,788 INFO     ****************************************************************************************************
+2023-11-24 11:36:32,695 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:36:44,517 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:36:47,267 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:39:03,301 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:39:19,187 INFO     ****************************************************************************************************
+2023-11-24 11:39:19,191 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:39:19,192 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:39:19,194 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:39:36,619 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.abap
+2023-11-24 11:39:42,413 INFO     Excluded #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.xml from processing
+2023-11-24 11:39:43,067 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_fg_test.fugr.#cas#saplew_fg_test.abap
+2023-11-24 11:39:43,718 INFO     Excluded #cas#ew_fg_test.fugr.#cas#saplew_fg_test.xml from processing
+2023-11-24 11:39:43,719 INFO     Excluded #cas#ew_fg_test.fugr.xml from processing
+2023-11-24 11:39:45,094 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_r_test.prog.abap
+2023-11-24 11:39:45,639 INFO     Excluded #cas#ew_r_test.prog.xml from processing
+2023-11-24 11:39:45,640 INFO     Excluded #cas#ew_t_test.tabl.xml from processing
+2023-11-24 11:39:45,641 INFO     Excluded package.devc.xml from processing
+2023-11-24 11:39:45,641 INFO     \Replacing 'lt_test_data'  =>  'lt_testdata' was successful.
+
+2023-11-24 11:39:45,642 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:40:18,633 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:40:37,795 INFO     ****************************************************************************************************
+2023-11-24 11:40:37,798 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:40:37,799 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:40:37,800 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:40:40,848 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.abap
+2023-11-24 11:40:40,850 INFO     Excluded #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.xml from processing
+2023-11-24 11:40:40,854 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_fg_test.fugr.#cas#saplew_fg_test.abap
+2023-11-24 11:40:40,856 INFO     Excluded #cas#ew_fg_test.fugr.#cas#saplew_fg_test.xml from processing
+2023-11-24 11:40:40,856 INFO     Excluded #cas#ew_fg_test.fugr.xml from processing
+2023-11-24 11:40:40,860 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_r_test.prog.abap
+2023-11-24 11:40:40,862 INFO     Excluded #cas#ew_r_test.prog.xml from processing
+2023-11-24 11:40:40,883 INFO     Excluded #cas#ew_t_test.tabl.xml from processing
+2023-11-24 11:40:40,884 INFO     Excluded package.devc.xml from processing
+2023-11-24 11:40:40,885 INFO     Replacing 'lt_testdata'  =>  'lt_test_data' was successful.
+
+2023-11-24 11:40:40,885 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:41:05,847 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:41:09,717 INFO     ****************************************************************************************************
+2023-11-24 11:41:09,718 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:41:09,719 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:41:09,720 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:41:09,727 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.abap
+2023-11-24 11:41:09,728 INFO     Excluded #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.xml from processing
+2023-11-24 11:41:09,731 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_fg_test.fugr.#cas#saplew_fg_test.abap
+2023-11-24 11:41:09,732 INFO     Excluded #cas#ew_fg_test.fugr.#cas#saplew_fg_test.xml from processing
+2023-11-24 11:41:09,732 INFO     Excluded #cas#ew_fg_test.fugr.xml from processing
+2023-11-24 11:41:09,736 INFO     >> Occurrences of "lt_test_data" replaced by "lt_testdata" in #cas#ew_r_test.prog.abap
+2023-11-24 11:41:09,737 INFO     Excluded #cas#ew_r_test.prog.xml from processing
+2023-11-24 11:41:09,737 INFO     Excluded #cas#ew_t_test.tabl.xml from processing
+2023-11-24 11:41:09,737 INFO     Excluded package.devc.xml from processing
+2023-11-24 11:41:09,738 INFO     Replacing 'lt_test_data'  =>  'lt_testdata' was successful.
+
+2023-11-24 11:41:09,738 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:41:27,981 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:41:35,459 INFO     ****************************************************************************************************
+2023-11-24 11:41:35,462 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:41:35,464 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:41:35,465 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:41:35,473 INFO     Excluded #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.xml from processing
+2023-11-24 11:41:35,477 INFO     Excluded #cas#ew_fg_test.fugr.#cas#saplew_fg_test.xml from processing
+2023-11-24 11:41:35,479 INFO     Excluded #cas#ew_fg_test.fugr.xml from processing
+2023-11-24 11:41:35,482 INFO     Excluded #cas#ew_r_test.prog.xml from processing
+2023-11-24 11:41:35,483 INFO     Excluded #cas#ew_t_test.tabl.xml from processing
+2023-11-24 11:41:35,483 INFO     Excluded package.devc.xml from processing
+2023-11-24 11:41:35,483 INFO     Replacing 'lt_test_data'  =>  'lt_testdata' was successful.
+
+2023-11-24 11:41:35,484 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
+2023-11-24 11:41:55,589 INFO     ****************************************************************************************************
+2023-11-24 11:41:55,592 INFO     Excluded #cas#.nspc.xml from processing
+2023-11-24 11:41:55,594 INFO     Excluded #cas#ew_de_test.dtel.xml from processing
+2023-11-24 11:41:55,595 INFO     Excluded #cas#ew_do_test.doma.xml from processing
+2023-11-24 11:41:55,604 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.abap
+2023-11-24 11:41:55,605 INFO     Excluded #cas#ew_fg_test.fugr.#cas#lew_fg_testtop.xml from processing
+2023-11-24 11:41:55,609 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_fg_test.fugr.#cas#saplew_fg_test.abap
+2023-11-24 11:41:55,609 INFO     Excluded #cas#ew_fg_test.fugr.#cas#saplew_fg_test.xml from processing
+2023-11-24 11:41:55,610 INFO     Excluded #cas#ew_fg_test.fugr.xml from processing
+2023-11-24 11:41:55,613 INFO     >> Occurrences of "lt_testdata" replaced by "lt_test_data" in #cas#ew_r_test.prog.abap
+2023-11-24 11:41:55,614 INFO     Excluded #cas#ew_r_test.prog.xml from processing
+2023-11-24 11:41:55,614 INFO     Excluded #cas#ew_t_test.tabl.xml from processing
+2023-11-24 11:41:55,615 INFO     Excluded package.devc.xml from processing
+2023-11-24 11:41:55,615 INFO     Replacing 'lt_testdata'  =>  'lt_test_data' was successful.
+
+2023-11-24 11:41:55,616 INFO     ************************************* ZCAS_RENAME_DEV_OBJECTS **************************************
